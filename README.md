@@ -3,7 +3,7 @@
   <a href="https://discord.gg/SSDFR">Discord</a> |
   <a href="https://www.youtube.com/@qlbdu95">YouTube</a> |
   <a href="https://github.com/OMERTA47">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/1272966947239100446/1273392129229590590/Screenshot_24.png?ex=66be7256&is=66bd20d6&hm=9cef48553725c211d20d6b78f1b03d74f172068ab3bbc179cdbfd8aff83af7ee&" style="width: 60%">
+  <img src="https://cdn.discordapp.com/attachments/1272966947239100446/1273392129229590590/Screenshot_24.png?ex=66be7256&is=66bd20d6&hm=9cef48553725c211d20d6b78f1b03d74f172068ab3bbc179cdbfd8aff83af7ee&" style="width: 30%">
 </p>
 
 ##  
