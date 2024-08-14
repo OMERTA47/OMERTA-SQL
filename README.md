@@ -15,7 +15,7 @@
 ### ☕ Usage  
 - #### 💻 Downloading
      ```
-    >> git clone https://github.com/OMERTA47/OMERTA-SQL
+    >> git clone https://github.com/OMERTA47/OMERTA-SQL/tree/main
     >> pip install -r requirements.txt
     ```
 - #### 🖥️ Starting
